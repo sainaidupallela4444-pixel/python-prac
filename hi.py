@@ -1,1 +1,2 @@
-print('HELLO WORLD')
+course = "Python Programming"
+print(len(course))
